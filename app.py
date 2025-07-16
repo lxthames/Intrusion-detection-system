@@ -290,7 +290,7 @@ The following provides a breakdown of the original labels for the connections th
         
         report_content += """
 
-## 5. Conclusion
+5. Conclusion
 The automated framework successfully analyzed the dataset and identified potential security incidents with high accuracy using the Random Forest model. Further investigation by a human analyst into the flagged connections is recommended.
 
 ---

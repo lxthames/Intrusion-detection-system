@@ -268,7 +268,7 @@ def main():
 ---
 
  1. Executive Summary
-This report details the findings of an automated analysis of network traffic data from the NSL-KDD test dataset. The system identified a number of anomalies classified as potential intrusions.
+The report details the findings of an automated analysis of network traffic data from the NSL-KDD test dataset. The system identified a number of anomalies classified as potential intrusions.
 
  2. Dataset Analyzed
 - Dataset: NSL-KDD Test Set
